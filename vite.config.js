@@ -6,5 +6,3 @@ export default defineConfig({
     'process.env': {},
   },
 });
-
-import { defineConfig } from 'vite';
